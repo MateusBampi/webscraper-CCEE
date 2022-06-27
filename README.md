@@ -10,3 +10,5 @@ O projeto foi desenvolvido com a ideia de extrair os dados de segurança de merc
 As imagens que devem ser detectadas estão no arquivo .zip e devem ser descompactadas na mesma pasta do arquivo .py.
 
 Uma vez que o script faça o download de toda a base, o arquivo 'Concatenar Dados.xlsm' concatena todas as informações em um único arquivo e faz o tratamento dos dados.
+
+Por último, os dados podem ser exibidos no Power Bi utilizando o arquivo 'Acompanhamento de Marketshare.pbix'.
